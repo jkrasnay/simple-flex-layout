@@ -1,0 +1,56 @@
+.banner {
+  background-color: #333;
+  color: #e0e0e0;
+}
+
+button {
+  border: none;
+  border-radius: 4px;
+  background-color: #08c;
+  color: white;
+  display: inline-block;
+  font-size: inherit;
+  padding: 6px 20px;
+}
+
+input {
+  font-size: inherit;
+  padding: 6px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  height: 100px;
+}
+
+.dialog {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 500px;
+  margin: 100px auto;
+}
+
+.footer {
+  align-items: center;
+  background-color: #ccc;
+}
+
+.side-menu {
+  background-color: #e0e0e0;
+  width: 200px;
+}
+
+.text-small {
+  font-size: 80%;
+}
+
+.text-large {
+  font-size: 120%;
+}
+
+.text-bold {
+  font-weight: bold;
+}
