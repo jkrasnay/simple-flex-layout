@@ -21,27 +21,27 @@ body {
   overflow: hidden; /* Required in parents above an overflow:auto element */
 }
 
-.stretch {
+.fill {
   flex: 1;
 }
 
-.padded {
+.pad {
   padding: 10px;
 }
 
-.spaced > * {
+.space > * {
   margin-bottom: 10px;
 }
 
-.hbox.spaced > * {
+.hbox.space > * {
   margin-bottom: 0;
   margin-right: 10px;
 }
 
-.spaced > *:last-child {
+.space > *:last-child {
   margin: 0;
 }
 
-.scrollable {
+.scroll {
   overflow: auto;
 }
